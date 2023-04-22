@@ -1,0 +1,29 @@
+body {
+  background-color: #2ce7ea;
+}
+#mainNavbar .navbar-brand {
+  color: rgb(96, 247, 116);
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+#mainNavbar {
+  background-color: rgb(33, 164, 200);
+}
+#mainNavbar .nav-link:hover {
+  color: rgb(96, 247, 116);
+  font-size: 1.5rem;
+}
+span {
+  color: rgb(22, 83, 149);
+}
+.blurb {
+  color: rgb(22, 83, 149);
+  font-weight: 100;
+  font-size: 1.25rem;
+}
+.content {
+  margin-top: 30px;
+}
+.first {
+  background-color: #2ce7ea;
+}
